@@ -1,18 +1,14 @@
-body{
+body {
     font-family: Arial, Helvetica, sans-serif;
-    
-}
-
-.redText{
     color:#c1d831;
     text-align: center;
 }
 
-.redText{
+.redText {
     text-shadow: 2px 2px 2px #81901f
 }
 
-.backgroundColor{
+.backgroundColor {
     background-color: #10284b;
 }
 
@@ -24,17 +20,8 @@ body{
     border: solid 1px #FFFFFF;
 }
 
-.orangeText{
-    color:#ddff00;
-}
-
-.backgroundColor{
+.backgroundColor {
     background-color: #10284b;
-}
-
-h1{
-   text-align: center;
-   color: #ddff00 
 }
 
 .center {

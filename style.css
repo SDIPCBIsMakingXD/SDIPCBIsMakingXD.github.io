@@ -43,6 +43,10 @@ body {
 .container div {
   background-color: #243E65;
   margin: 10px;
-  padding: 20px;
+  padding: 20px; 
   font-size: 30px;
+}
+
+body {
+    cursor: url("cursor.png"), auto;
 }

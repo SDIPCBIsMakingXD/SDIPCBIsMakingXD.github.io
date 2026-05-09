@@ -1,0 +1,18 @@
+body {
+    font-family: times-new-roman;
+    color:#c1d831;
+    text-align: center;
+    text-shadow: 2px 2px 2px #81901f
+}
+
+.backgroundColor {
+    background-color: #10284b;
+}
+
+.flex-layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1;
+    border: solid 1px #FFFFFF;
+}

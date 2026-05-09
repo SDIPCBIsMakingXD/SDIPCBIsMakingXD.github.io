@@ -2,6 +2,7 @@ body {
     font-family: times-new-roman;
     color:#c1d831;
     text-align: center;
+    cursor: url("cursor.png"), auto;
 }
 
 .redText {
@@ -20,21 +21,6 @@ body {
     border: solid 1px #FFFFFF;
 }
 
-.backgroundColor {
-    background-color: #10284b;
-}
-
-.center {
-    text-align: center;
-}
-
-.flex-layout {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 1;
-    border: solid 1px #FFFFFF;
-}
 .container {
   display: flex;
   background-color: #243E65;
@@ -45,8 +31,4 @@ body {
   margin: 10px;
   padding: 20px; 
   font-size: 30px;
-}
-
-body {
-    cursor: url("cursor.png"), auto;
 }

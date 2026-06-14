@@ -1,16 +1,9 @@
 body {
     font-family: times-new-roman;
-    color:#c1d831;
+    color:#ffffff;
     text-align: center;
     cursor: url("cursor.png"), auto;
-}
-
-.redText {
-    text-shadow: 2px 2px 2px #81901f
-}
-
-.backgroundColor {
-    background-color: #10284b;
+ text-shadow: 2px 2px 2px #81901f
 }
 
 .flex-layout {

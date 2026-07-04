@@ -1,12 +1,9 @@
-body {
-    font-family: times-new-roman;
-    color:#c1d831;
+body{
+    font-family: Arial, Helvetica, sans-serif;
+        color:#c1d831;
     text-align: center;
     text-shadow: 2px 2px 2px #81901f
-}
-
-.backgroundColor {
-    background-color: #10284b;
+        background-color: #10284b;
 }
 
 .flex-layout {
@@ -15,4 +12,32 @@ body {
     align-items: center;
     gap: 1;
     border: solid 1px #FFFFFF;
+}
+
+h1{
+   text-align: center;
+   color: #ddff00 
+}
+
+.center {
+    text-align: center;
+}
+
+.flex-layout {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1;
+    border: solid 1px #FFFFFF;
+}
+.container {
+  display: flex;
+  background-color: #243E65;
+}
+
+.container div {
+  background-color: #243E65;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
 }
